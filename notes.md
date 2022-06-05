@@ -22,4 +22,12 @@ QOC Analysis:
 ![image](https://user-images.githubusercontent.com/4626841/170682707-92835478-8593-4dee-8a94-e33e13aef6d3.png)
 
 
+Issues:
+
+![image](https://user-images.githubusercontent.com/4626841/171879977-b8eca226-d082-44e6-b537-e29083834a5a.png)
+
+
+
 Source: University of Michigan
+
+
